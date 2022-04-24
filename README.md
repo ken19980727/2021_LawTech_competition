@@ -1,6 +1,6 @@
 # 2021_LawTech_competition
 
-## scenario
+## Scenario
 Given a judgement then display the corresponding laws
 
 ## Usage
