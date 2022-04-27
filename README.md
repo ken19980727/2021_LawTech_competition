@@ -10,6 +10,6 @@ Given a judgement then display the corresponding laws
 
 [Process Data for HAN.ipynb](https://github.com/ken19980727/2021_LawTech_competition/blob/main/Process%20Data%20for%20HAN.ipynb) : Processing judgement and compress into one pack to through the HAN model
 
-[HAN HacKerThon.ipynb](https://github.com/ken19980727/2021_LawTech_competition/blob/main/HAN%20HacKerThon.ipynb) : HAN model
+[HAN HacKerThon.ipynb](https://github.com/ken19980727/2021_LawTech_competition/blob/main/HAN%20HacKerThon.ipynb) : [HAN](https://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf) model
 
 [Hackthon_Frontend.ipynb](https://) Simple from end implementation
